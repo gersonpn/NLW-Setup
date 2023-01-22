@@ -17,10 +17,6 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 <br>
 
-<p align="center">
-  <img alt="projeto Habits" src="https://s3-alpha.figma.com/hub/file/2858967503/9890b922-e48c-4217-a394-2756f4245fce-cover.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
